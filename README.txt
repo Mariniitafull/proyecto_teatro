@@ -1,0 +1,1 @@
+1. Crear la clase Teatro (de momento, sin constructor) en el archivo teatro.ts. Implementar el método verProgramacionActual, que no recibe parámetros y no retorna nada. Mostrar la información de la obra actual mediante console.log
